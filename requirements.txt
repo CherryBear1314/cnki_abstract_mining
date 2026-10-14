@@ -2,4 +2,3 @@ pandas
 jieba
 openpyxl
 numpy
-gensim==3.8.3
